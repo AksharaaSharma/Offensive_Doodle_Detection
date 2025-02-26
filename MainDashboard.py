@@ -16,7 +16,7 @@ gemini_model = genai.GenerativeModel('gemini-1.5-flash')
 
 def load_clip_model():
     # Path to your fine-tuned model
-    model_path = r'C:\Users\New User\OneDrive\Desktop\fine_tuned_clip_model'
+    model_path = r'fine_tuned_clip_model'
     
     try:
         # Load the model configuration manually
@@ -167,7 +167,7 @@ def main():
     """, unsafe_allow_html=True)
 
     # Background Image
-    background_image_path = r"C:\Users\New User\OneDrive\Desktop\Thales_Offensive_Doodle.jpg"
+    background_image_path = r"Thales_Offensive_Doodle.jpg"
     with open(background_image_path, "rb") as image_file:
         encoded_string = base64.b64encode(image_file.read()).decode()
 
