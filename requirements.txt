@@ -1,7 +1,8 @@
 streamlit
-streamlit-drawable-canvas
-Pillow
-numpy
+google-generativeai
 torch
 torchvision
-pandas
+transformers
+Pillow
+streamlit-drawable-canvas
+numpy
