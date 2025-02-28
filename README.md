@@ -1,21 +1,21 @@
-# 🕵️‍♀️ Doodle Detector 🖌️ ✨
+# 🕵️‍♀️ Doodle Detector 🎨 ✨
 
 <div align="center">
 
-![Doodle Detector Banner](/api/placeholder/800/200)
+![Doodle Detector Banner](https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/banner.png)
 
 ## 🌟 _Where AI Meets Artistry_ 🌟
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![Made with Love](https://img.shields.io/badge/Made%20with-♥-ff69b4.svg?style=for-the-badge)](https://github.com/AksharaaSharma)
+[![Made with Love](https://img.shields.io/badge/Made%20with-♥-ff69b4.svg?style=for-the-badge)](https://github.com/yourusername/doodle-detector)
 
 </div>
 
-## 🎬 See the Magic in Action!
+## 🎮 See the Magic in Action!
 
 <div align="center">
   
-[![Doodle Detector Demo](/api/placeholder/640/480)](https://www.youtube.com/watch?v=DO3PW_hGQQk "Watch the Doodle Detector in action!")
+[![Doodle Detector Demo](https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/demo-thumbnail.png)](https://www.youtube.com/watch?v=DO3PW_hGQQk "Watch the Doodle Detector in action!")
 
 > 👆 **Click to watch our magical prototype in action!** 👆
 
@@ -42,7 +42,7 @@ Doodle Detector is your friendly neighborhood AI art critic! 🎭 This magical t
       Express yourself freely with our enchanted drawing tools!
     </td>
     <td width="50%">
-      <h3>📤 Doodle Uploading</h3>
+      <h3>📄 Doodle Uploading</h3>
       Already created your masterpiece elsewhere? No problem!
     </td>
   </tr>
@@ -86,126 +86,63 @@ graph LR
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="/api/placeholder/60/60" alt="Streamlit" width="60" height="60"/><br>💻 Streamlit</td>
-      <td align="center"><img src="/api/placeholder/60/60" alt="PyTorch" width="60" height="60"/><br>🔥 PyTorch</td>
-      <td align="center"><img src="/api/placeholder/60/60" alt="Transformers" width="60" height="60"/><br>🤖 Transformers</td>
-      <td align="center"><img src="/api/placeholder/60/60" alt="Google AI" width="60" height="60"/><br>🧙‍♂️ Google AI</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/streamlit.png" alt="Streamlit" width="60"/><br>💻 Streamlit</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/pytorch.png" alt="PyTorch" width="60"/><br>🔥 PyTorch</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/transformers.png" alt="Transformers" width="60"/><br>🤖 Transformers</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/google-ai.png" alt="Google AI" width="60"/><br>🧙‍ Google AI</td>
     </tr>
   </table>
 </div>
 
-## 🛠️ Conjuring Instructions
-
-<div align="center">
-  
-<img src="/api/placeholder/800/200" alt="Installation Wizard" width="800">
-
-</div>
+## 🛠️ Installation Guide
 
 ```bash
-# Summon the repository
+# Clone the repository
 git clone https://github.com/yourusername/doodle-detector.git
 cd doodle-detector
 
-# Create your magical environment
+# Create and activate virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-# Gather the required magical components
+# Install dependencies
 pip install -r requirements.txt
 
-# Release the magic!
+# Run the application
 streamlit run app.py
 ```
 
-## 💡 The Magical Process
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="25%" align="center">
-        <h3>✍️ CREATE</h3>
-        <img src="/api/placeholder/150/150" alt="Draw" width="150" height="150">
-        <p>Draw your masterpiece or upload an existing doodle</p>
-      </td>
-      <td width="25%" align="center">
-        <h3>⚡ ANALYZE</h3>
-        <img src="/api/placeholder/150/150" alt="Analyze" width="150" height="150">
-        <p>Your art zooms through our neural networks</p>
-      </td>
-      <td width="25%" align="center">
-        <h3>🧐 DISCOVER</h3>
-        <img src="/api/placeholder/150/150" alt="Results" width="150" height="150">
-        <p>Receive detailed insights about your creation</p>
-      </td>
-      <td width="25%" align="center">
-        <h3>📚 LEARN</h3>
-        <img src="/api/placeholder/150/150" alt="Learn" width="150" height="150">
-        <p>Understand content guidelines through explanations</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🔒 Enchanted Privacy Shield
-
-<div align="center">
-  
-```
-We protect your creative expressions with the strongest magical barriers!
-```
-
-</div>
+## 🔒 Privacy Shield
 
 - 🔄 **Real-time processing** of all doodles
 - 🔥 **No permanent storage** of your creative expressions
-- 📜 **Transparent explanations** for all classifications
+- 📚 **Transparent explanations** for all classifications
 - 🎓 **Educational insights** to help understand content guidelines
 
-## 👩‍💻 Join Our Coven of Contributors
+## 👩‍💻 Join Our Community
 
-<div align="center">
-  
-<img src="/api/placeholder/800/200" alt="Magical Community" width="800">
+We welcome contributors!
 
-</div>
-
-The magical community welcomes new spell-casters! 🧙‍♀️
-
-1. 🍴 **Fork** the magical repository
+1. 🌱 **Fork** the repository
 2. 🌿 **Create** your feature branch (`git checkout -b feature/amazing-spell`)
-3. 💫 **Cast** your changes (`git commit -m 'Add some amazing magical feature'`)
-4. 🚀 **Launch** your contributions (`git push origin feature/amazing-spell`)
-5. 🙏 **Request** your spell to be added to the grimoire (Open a Pull Request)
+3. 🌟 **Commit** your changes (`git commit -m 'Add some amazing magical feature'`)
+4. 🚀 **Push** your contributions (`git push origin feature/amazing-spell`)
+5. 🙏 **Open** a Pull Request
 
-## 📄 Scroll of License
+## 📝 License
 
-This magical artifact is protected by the MIT License - see the [LICENSE](LICENSE) scroll for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Gratitude to Fellow Wizards
+## 💖 Acknowledgments
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="/api/placeholder/80/80" alt="OpenAI" width="80" height="80"/><br>🧠 OpenAI</td>
-      <td align="center"><img src="/api/placeholder/80/80" alt="Google" width="80" height="80"/><br>🌐 Google</td>
-      <td align="center"><img src="/api/placeholder/80/80" alt="Streamlit" width="80" height="80"/><br>💫 Streamlit</td>
-      <td align="center"><img src="/api/placeholder/80/80" alt="Contributors" width="80" height="80"/><br>🌟 Contributors</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/openai.png" alt="OpenAI" width="80"/><br>🧠 OpenAI</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/google.png" alt="Google" width="80"/><br>🌐 Google</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/streamlit.png" alt="Streamlit" width="80"/><br>💖 Streamlit</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/contributors.png" alt="Contributors" width="80"/><br>🌟 Contributors</td>
     </tr>
   </table>
 </div>
 
----
-
-<div align="center">
-  
-<img src="/api/placeholder/800/100" alt="Magic Divider" width="800">
-
-## 💭 Words of Wisdom
-
-*"Every doodle tells a story. We're just here to make sure it's a tale worth telling."*  
-                                                       - The Doodle Detective 🕵️‍♀️
-
-<p align="center">✨ Crafted with magical love for responsible AI development ✨</p>
-
-</div>
