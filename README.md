@@ -6,11 +6,11 @@
 
 ## 🌟 _Where AI Meets Artistry_ 🌟
 
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.21.0-FF4B4B)](https://streamlit.io/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C)](https://pytorch.org/)
-[![Made with Love](https://img.shields.io/badge/Made%20with-♥-ff69b4)](https://github.com/yourusername/doodle-detector)
+[![License](https://img.shields.io/badge/License-MIT-85EA2D.svg?style=flat-square&labelColor=303030)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB.svg?style=flat-square&labelColor=303030)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.21.0-FF4B4B.svg?style=flat-square&labelColor=303030)](https://streamlit.io/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg?style=flat-square&labelColor=303030)](https://pytorch.org/)
+[![Made with](https://img.shields.io/badge/Made_with-♥-ff69b4.svg?style=flat-square&labelColor=303030)](https://github.com/yourusername/doodle-detector)
 
 </div>
 
@@ -18,9 +18,7 @@
 
 <div align="center">
   
-<a href="https://www.youtube.com/watch?v=DO3PW_hGQQk" target="_blank">
-  <img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/demo-thumbnail.png" alt="Doodle Detector Demo" width="600"/>
-</a>
+[![Doodle Detector Demo](https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/demo-thumbnail.png)](https://www.youtube.com/watch?v=DO3PW_hGQQk)
 
 > 👆 **Click to watch our magical prototype in action!** 👆
 
@@ -163,16 +161,36 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <table>
     <tr>
-      <td align="center"><a href="https://openai.com/"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/openai.png" alt="OpenAI" width="80"/><br>🧠 OpenAI</a></td>
-      <td align="center"><a href="https://www.google.com/"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/google.png" alt="Google" width="80"/><br>🌐 Google</a></td>
-      <td align="center"><a href="https://streamlit.io/"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/streamlit.png" alt="Streamlit" width="80"/><br>💖 Streamlit</a></td>
-      <td align="center"><a href="https://github.com/yourusername/doodle-detector/graphs/contributors"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/contributors.png" alt="Contributors" width="80"/><br>🌟 Contributors</a></td>
+      <td align="center">
+        <a href="https://openai.com/">
+          <img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/openai.png" alt="OpenAI" width="80"/>
+          <br>🧠 <span style="color:#00A67E;">OpenAI</span>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.google.com/">
+          <img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/google.png" alt="Google" width="80"/>
+          <br>🌐 <span style="color:#4285F4;">Google</span>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://streamlit.io/">
+          <img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/streamlit.png" alt="Streamlit" width="80"/>
+          <br>💖 <span style="color:#FF4B4B;">Streamlit</span>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/yourusername/doodle-detector/graphs/contributors">
+          <img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/contributors.png" alt="Contributors" width="80"/>
+          <br>🌟 <span style="color:#FFD700;">Contributors</span>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
 
 <p align="center">
-  <a href="https://github.com/yourusername/doodle-detector/stargazers">⭐ Star us on GitHub</a> •
-  <a href="https://twitter.com/yourusername">🐦 Follow us on Twitter</a> •
+  <a href="https://github.com/yourusername/doodle-detector/stargazers">⭐ Star us on GitHub</a> • 
+  <a href="https://twitter.com/yourusername">🐦 Follow us on Twitter</a> • 
   <a href="https://discord.gg/yourdiscord">💬 Join our Discord</a>
 </p>
