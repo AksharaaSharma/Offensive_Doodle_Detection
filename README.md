@@ -2,15 +2,9 @@
 
 <div align="center">
 
-![Doodle Detector Banner](https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/banner.png)
+![Doodle Animation](https://media.giphy.com/media/p2GjsflFKS72fsUagg/giphy.gif)
 
 ## 🌟 _Where AI Meets Artistry_ 🌟
-
-[![License](https://img.shields.io/badge/License-MIT-85EA2D.svg?style=flat-square&labelColor=303030)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8+-3776AB.svg?style=flat-square&labelColor=303030)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.21.0-FF4B4B.svg?style=flat-square&labelColor=303030)](https://streamlit.io/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg?style=flat-square&labelColor=303030)](https://pytorch.org/)
-[![Made with](https://img.shields.io/badge/Made_with-♥-ff69b4.svg?style=flat-square&labelColor=303030)](https://github.com/yourusername/doodle-detector)
 
 </div>
 
@@ -89,10 +83,10 @@ graph LR
 <div align="center">
   <table>
     <tr>
-      <td align="center"><a href="https://streamlit.io/"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/streamlit.png" alt="Streamlit" width="60"/><br>💻 Streamlit</a></td>
-      <td align="center"><a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/pytorch.png" alt="PyTorch" width="60"/><br>🔥 PyTorch</a></td>
-      <td align="center"><a href="https://huggingface.co/transformers/"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/transformers.png" alt="Transformers" width="60"/><br>🤖 Transformers</a></td>
-      <td align="center"><a href="https://ai.google/"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/google-ai.png" alt="Google AI" width="60"/><br>🧙‍ Google AI</a></td>
+      <td align="center">💻 Streamlit</td>
+      <td align="center">🔥 PyTorch</td>
+      <td align="center">🤖 Transformers</td>
+      <td align="center">🧙‍ Google AI</td>
     </tr>
   </table>
 </div>
@@ -161,36 +155,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <a href="https://openai.com/">
-          <img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/openai.png" alt="OpenAI" width="80"/>
-          <br>🧠 <span style="color:#00A67E;">OpenAI</span>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.google.com/">
-          <img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/google.png" alt="Google" width="80"/>
-          <br>🌐 <span style="color:#4285F4;">Google</span>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://streamlit.io/">
-          <img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/streamlit.png" alt="Streamlit" width="80"/>
-          <br>💖 <span style="color:#FF4B4B;">Streamlit</span>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/yourusername/doodle-detector/graphs/contributors">
-          <img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/contributors.png" alt="Contributors" width="80"/>
-          <br>🌟 <span style="color:#FFD700;">Contributors</span>
-        </a>
-      </td>
+      <td align="center">🧠 OpenAI</td>
+      <td align="center">🌐 Google</td>
+      <td align="center">💖 Streamlit</td>
+      <td align="center">🌟 Contributors</td>
     </tr>
   </table>
 </div>
-
-<p align="center">
-  <a href="https://github.com/yourusername/doodle-detector/stargazers">⭐ Star us on GitHub</a> • 
-  <a href="https://twitter.com/yourusername">🐦 Follow us on Twitter</a> • 
-  <a href="https://discord.gg/yourdiscord">💬 Join our Discord</a>
-</p>
