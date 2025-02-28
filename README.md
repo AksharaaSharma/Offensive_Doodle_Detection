@@ -6,8 +6,11 @@
 
 ## 🌟 _Where AI Meets Artistry_ 🌟
 
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![Made with Love](https://img.shields.io/badge/Made%20with-♥-ff69b4.svg?style=for-the-badge)](https://github.com/yourusername/doodle-detector)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.21.0-FF4B4B)](https://streamlit.io/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C)](https://pytorch.org/)
+[![Made with Love](https://img.shields.io/badge/Made%20with-♥-ff69b4)](https://github.com/yourusername/doodle-detector)
 
 </div>
 
@@ -15,7 +18,9 @@
 
 <div align="center">
   
-[![Doodle Detector Demo](https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/demo-thumbnail.png)](https://www.youtube.com/watch?v=DO3PW_hGQQk "Watch the Doodle Detector in action!")
+<a href="https://www.youtube.com/watch?v=DO3PW_hGQQk" target="_blank">
+  <img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/demo-thumbnail.png" alt="Doodle Detector Demo" width="600"/>
+</a>
 
 > 👆 **Click to watch our magical prototype in action!** 👆
 
@@ -35,37 +40,37 @@ Doodle Detector is your friendly neighborhood AI art critic! 🎭 This magical t
 
 ## ✨ Features
 
+<div align="center">
 <table>
   <tr>
-    <td width="50%">
+    <td align="center" width="50%">
       <h3>🎨 Magical Drawing Canvas</h3>
-      Express yourself freely with our enchanted drawing tools!
+      <p>Express yourself freely with our enchanted drawing tools!</p>
+      <img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/canvas-preview.png" alt="Drawing Canvas" width="250"/>
     </td>
-    <td width="50%">
+    <td align="center" width="50%">
       <h3>📄 Doodle Uploading</h3>
-      Already created your masterpiece elsewhere? No problem!
+      <p>Already created your masterpiece elsewhere? No problem!</p>
+      <img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/upload-preview.png" alt="Upload Feature" width="250"/>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td align="center" width="50%">
       <h3>🧠 Dual AI Brainpower</h3>
-      <ul>
+      <ul align="left">
         <li>🔄 CLIP model for lightning-fast first impressions</li>
         <li>🤖 Gemini 1.5 for deep artistic analysis</li>
       </ul>
+      <img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/ai-preview.png" alt="AI Analysis" width="250"/>
     </td>
-    <td width="50%">
+    <td align="center" width="50%">
       <h3>📊 Detailed Feedback</h3>
-      Get confidence scores and specific insights about your creation
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>🌈 Beautiful Interface</h3>
-      Our UI sparkles with delightful animations and intuitive design
+      <p>Get confidence scores and specific insights about your creation</p>
+      <img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/feedback-preview.png" alt="Feedback Preview" width="250"/>
     </td>
   </tr>
 </table>
+</div>
 
 ## 🎭 The Journey of Your Doodle
 
@@ -86,12 +91,18 @@ graph LR
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/streamlit.png" alt="Streamlit" width="60"/><br>💻 Streamlit</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/pytorch.png" alt="PyTorch" width="60"/><br>🔥 PyTorch</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/transformers.png" alt="Transformers" width="60"/><br>🤖 Transformers</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/google-ai.png" alt="Google AI" width="60"/><br>🧙‍ Google AI</td>
+      <td align="center"><a href="https://streamlit.io/"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/streamlit.png" alt="Streamlit" width="60"/><br>💻 Streamlit</a></td>
+      <td align="center"><a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/pytorch.png" alt="PyTorch" width="60"/><br>🔥 PyTorch</a></td>
+      <td align="center"><a href="https://huggingface.co/transformers/"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/transformers.png" alt="Transformers" width="60"/><br>🤖 Transformers</a></td>
+      <td align="center"><a href="https://ai.google/"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/google-ai.png" alt="Google AI" width="60"/><br>🧙‍ Google AI</a></td>
     </tr>
   </table>
+</div>
+
+## 🌈 Beautiful & Intuitive UI
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/ui-showcase.png" alt="UI Showcase" width="800"/>
 </div>
 
 ## 🛠️ Installation Guide
@@ -114,20 +125,34 @@ streamlit run app.py
 
 ## 🔒 Privacy Shield
 
-- 🔄 **Real-time processing** of all doodles
-- 🔥 **No permanent storage** of your creative expressions
-- 📚 **Transparent explanations** for all classifications
-- 🎓 **Educational insights** to help understand content guidelines
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🔄<br><b>Real-time processing</b><br>of all doodles</td>
+      <td align="center">🔥<br><b>No permanent storage</b><br>of your creative expressions</td>
+    </tr>
+    <tr>
+      <td align="center">📚<br><b>Transparent explanations</b><br>for all classifications</td>
+      <td align="center">🎓<br><b>Educational insights</b><br>to help understand content guidelines</td>
+    </tr>
+  </table>
+</div>
 
 ## 👩‍💻 Join Our Community
 
-We welcome contributors!
+We welcome contributors with magical ideas! Here's how to join our spellcasting:
 
-1. 🌱 **Fork** the repository
-2. 🌿 **Create** your feature branch (`git checkout -b feature/amazing-spell`)
-3. 🌟 **Commit** your changes (`git commit -m 'Add some amazing magical feature'`)
-4. 🚀 **Push** your contributions (`git push origin feature/amazing-spell`)
-5. 🙏 **Open** a Pull Request
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🌱<br><b>Fork</b><br>the repository</td>
+      <td align="center">🌿<br><b>Create</b><br>your feature branch</td>
+      <td align="center">🌟<br><b>Commit</b><br>your changes</td>
+      <td align="center">🚀<br><b>Push</b><br>your contributions</td>
+      <td align="center">🙏<br><b>Open</b><br>a Pull Request</td>
+    </tr>
+  </table>
+</div>
 
 ## 📝 License
 
@@ -138,11 +163,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/openai.png" alt="OpenAI" width="80"/><br>🧠 OpenAI</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/google.png" alt="Google" width="80"/><br>🌐 Google</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/streamlit.png" alt="Streamlit" width="80"/><br>💖 Streamlit</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/contributors.png" alt="Contributors" width="80"/><br>🌟 Contributors</td>
+      <td align="center"><a href="https://openai.com/"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/openai.png" alt="OpenAI" width="80"/><br>🧠 OpenAI</a></td>
+      <td align="center"><a href="https://www.google.com/"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/google.png" alt="Google" width="80"/><br>🌐 Google</a></td>
+      <td align="center"><a href="https://streamlit.io/"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/streamlit.png" alt="Streamlit" width="80"/><br>💖 Streamlit</a></td>
+      <td align="center"><a href="https://github.com/yourusername/doodle-detector/graphs/contributors"><img src="https://raw.githubusercontent.com/yourusername/doodle-detector/main/assets/contributors.png" alt="Contributors" width="80"/><br>🌟 Contributors</a></td>
     </tr>
   </table>
 </div>
 
+<p align="center">
+  <a href="https://github.com/yourusername/doodle-detector/stargazers">⭐ Star us on GitHub</a> •
+  <a href="https://twitter.com/yourusername">🐦 Follow us on Twitter</a> •
+  <a href="https://discord.gg/yourdiscord">💬 Join our Discord</a>
+</p>
