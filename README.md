@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Doodle Detector Banner](https://i.imgur.com/JzGv5Ml.png)
+![Doodle Detector Banner](/api/placeholder/800/200)
 
 ## 🌟 _Where AI Meets Artistry_ 🌟
 
@@ -15,7 +15,7 @@
 
 <div align="center">
   
-[![Doodle Detector Demo](https://img.youtube.com/vi/DO3PW_hGQQk/0.jpg)](https://www.youtube.com/watch?v=DO3PW_hGQQk "Watch the Doodle Detector in action!")
+[![Doodle Detector Demo](/api/placeholder/640/480)](https://www.youtube.com/watch?v=DO3PW_hGQQk "Watch the Doodle Detector in action!")
 
 > 👆 **Click to watch our magical prototype in action!** 👆
 
@@ -86,10 +86,10 @@ graph LR
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://i.imgur.com/S0L0Aiz.png" alt="Streamlit" width="60" height="60"/><br>💻 Streamlit</td>
-      <td align="center"><img src="https://i.imgur.com/PTxxXmD.png" alt="PyTorch" width="60" height="60"/><br>🔥 PyTorch</td>
-      <td align="center"><img src="https://i.imgur.com/0hd1MgB.png" alt="Transformers" width="60" height="60"/><br>🤖 Transformers</td>
-      <td align="center"><img src="https://i.imgur.com/qwNbBJH.png" alt="Google AI" width="60" height="60"/><br>🧙‍♂️ Google AI</td>
+      <td align="center"><img src="/api/placeholder/60/60" alt="Streamlit" width="60" height="60"/><br>💻 Streamlit</td>
+      <td align="center"><img src="/api/placeholder/60/60" alt="PyTorch" width="60" height="60"/><br>🔥 PyTorch</td>
+      <td align="center"><img src="/api/placeholder/60/60" alt="Transformers" width="60" height="60"/><br>🤖 Transformers</td>
+      <td align="center"><img src="/api/placeholder/60/60" alt="Google AI" width="60" height="60"/><br>🧙‍♂️ Google AI</td>
     </tr>
   </table>
 </div>
@@ -98,7 +98,7 @@ graph LR
 
 <div align="center">
   
-<img src="https://i.imgur.com/VE2NqK8.png" alt="Installation Wizard" width="800">
+<img src="/api/placeholder/800/200" alt="Installation Wizard" width="800">
 
 </div>
 
@@ -125,22 +125,22 @@ streamlit run app.py
     <tr>
       <td width="25%" align="center">
         <h3>✍️ CREATE</h3>
-        <img src="https://i.imgur.com/XJyemeI.png" alt="Draw" width="150" height="150">
+        <img src="/api/placeholder/150/150" alt="Draw" width="150" height="150">
         <p>Draw your masterpiece or upload an existing doodle</p>
       </td>
       <td width="25%" align="center">
         <h3>⚡ ANALYZE</h3>
-        <img src="https://i.imgur.com/zyBd0Yt.png" alt="Analyze" width="150" height="150">
+        <img src="/api/placeholder/150/150" alt="Analyze" width="150" height="150">
         <p>Your art zooms through our neural networks</p>
       </td>
       <td width="25%" align="center">
         <h3>🧐 DISCOVER</h3>
-        <img src="https://i.imgur.com/yXtWfBj.png" alt="Results" width="150" height="150">
+        <img src="/api/placeholder/150/150" alt="Results" width="150" height="150">
         <p>Receive detailed insights about your creation</p>
       </td>
       <td width="25%" align="center">
         <h3>📚 LEARN</h3>
-        <img src="https://i.imgur.com/K32YeBj.png" alt="Learn" width="150" height="150">
+        <img src="/api/placeholder/150/150" alt="Learn" width="150" height="150">
         <p>Understand content guidelines through explanations</p>
       </td>
     </tr>
@@ -166,7 +166,7 @@ We protect your creative expressions with the strongest magical barriers!
 
 <div align="center">
   
-<img src="https://i.imgur.com/DGk5Z5S.png" alt="Magical Community" width="800">
+<img src="/api/placeholder/800/200" alt="Magical Community" width="800">
 
 </div>
 
@@ -187,10 +187,10 @@ This magical artifact is protected by the MIT License - see the [LICENSE](LICENS
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://i.imgur.com/pyWXCpw.png" alt="OpenAI" width="80" height="80"/><br>🧠 OpenAI</td>
-      <td align="center"><img src="https://i.imgur.com/vxJXAaT.png" alt="Google" width="80" height="80"/><br>🌐 Google</td>
-      <td align="center"><img src="https://i.imgur.com/S0L0Aiz.png" alt="Streamlit" width="80" height="80"/><br>💫 Streamlit</td>
-      <td align="center"><img src="https://i.imgur.com/6JzhWUi.png" alt="Contributors" width="80" height="80"/><br>🌟 Contributors</td>
+      <td align="center"><img src="/api/placeholder/80/80" alt="OpenAI" width="80" height="80"/><br>🧠 OpenAI</td>
+      <td align="center"><img src="/api/placeholder/80/80" alt="Google" width="80" height="80"/><br>🌐 Google</td>
+      <td align="center"><img src="/api/placeholder/80/80" alt="Streamlit" width="80" height="80"/><br>💫 Streamlit</td>
+      <td align="center"><img src="/api/placeholder/80/80" alt="Contributors" width="80" height="80"/><br>🌟 Contributors</td>
     </tr>
   </table>
 </div>
@@ -199,7 +199,7 @@ This magical artifact is protected by the MIT License - see the [LICENSE](LICENS
 
 <div align="center">
   
-<img src="https://i.imgur.com/u7BQvb5.png" alt="Magic Divider" width="800">
+<img src="/api/placeholder/800/100" alt="Magic Divider" width="800">
 
 ## 💭 Words of Wisdom
 
