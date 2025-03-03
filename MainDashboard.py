@@ -9,9 +9,14 @@ import numpy as np
 import base64
 import io
 import os
+from dotenv import load_dotenv
 
-# Configure Gemini API
-genai.configure(api_key="AIzaSyCW6X3nK9yF4Q-XNN-2nl3j3wYfoCv32zc")
+# Load environment variables
+load_dotenv()
+
+# Configure Gemini API using environment variable
+api_key = os.getenv("GEMINI_API_KEY")
+genai.configure(api_key=api_key)
 gemini_model = genai.GenerativeModel('gemini-1.5-flash')
 
 def load_clip_model():
