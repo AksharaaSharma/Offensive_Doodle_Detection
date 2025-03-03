@@ -9,15 +9,18 @@ import numpy as np
 import base64
 import io
 import os
-from dotenv import load_dotenv
 
-# Load environment variables
-load_dotenv()
+# Read the API key from the system environment (GitHub Secrets)
+api_key = os.environ.get("GEMINI_API_KEY")
 
-# Configure Gemini API using environment variable
-api_key = os.getenv("GEMINI_API_KEY")
+# Check if the API key is available
+if not api_key:
+    raise ValueError("GEMINI_API_KEY not found. Make sure it is set in your environment variables.")
+
+# Configure Gemini API
 genai.configure(api_key=api_key)
 gemini_model = genai.GenerativeModel('gemini-1.5-flash')
+
 
 def load_clip_model():
     # Path to your fine-tuned model
