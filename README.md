@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[![Doodle Detector Demo]](https://www.youtube.com/watch?v=DO3PW_hGQQk)
+[Doodle Detector Demo](https://www.youtube.com/watch?v=DO3PW_hGQQk)
 
 > 👆 **Click to watch our magical prototype in action!** 👆
 
